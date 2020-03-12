@@ -1,0 +1,19 @@
+.nav {
+    background-color: $color-eerieblack;
+}
+
+.nav--bar {
+    width: 1070px;
+}
+
+.nav--bar--logo {
+    width: 78px;
+    height: 35px;
+    
+}
+
+.nav-link:hover {
+     
+        color: $color-fuzzywuzzy !important;
+    
+}

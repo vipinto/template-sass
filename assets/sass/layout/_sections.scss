@@ -1,0 +1,79 @@
+//seccion texto
+
+h5 {
+   color: $color-lightgray;
+   font-family: $roboto;
+   font-weight: $regular;
+   
+}
+
+p {
+    line-height: 2.1rem;
+}
+
+//Secccion Page
+.page {
+height: 25rem;
+width: 100%;
+border-top: 1px solid $color-lightgray;
+padding: 5rem 4rem;
+margin-bottom: 2rem;
+
+}
+
+
+.page--img {
+    height: 140px;
+    width: 140px;
+    vertical-align: top;
+}
+
+.naomi {
+    font-weight: $bold;
+    font-size: 1.4rem;
+    font-family: $playfair;
+    font-style: italic;
+    padding: 0.2rem 0.2rem;
+    text-align: center;
+}
+
+.page--img--texto {
+    text-decoration: none;
+    vertical-align: top;
+    font-weight: 300;
+    font-size: medium;
+    font-family: $roboto;
+    color: $color-spanishpink;
+}
+
+.page--img--bloque {
+    margin-left: 3rem;
+}
+
+//Secccion Pagination
+
+.pagination--container {
+    text-align: center;
+    background-color: $color-platinum;
+    height:  7rem;
+    padding: 1rem 1rem;
+    position: relative;
+}
+
+.pagination--container--item{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.pagination {
+    margin-left: 30vmax;
+    padding-top: 35px;
+    color: $color-nickel;
+  }
+
+ 
+
+
+  
+
